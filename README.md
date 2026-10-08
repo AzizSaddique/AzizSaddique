@@ -1,19 +1,23 @@
-# 💫 Hi 👋, I'm Aziz Saddique
-**A passionat web developer || Data scintist || AI web apps developer || integrat into yours websites**
+# 💫 Hi 👋, I'm Aziz Saddique 
+Computer science graduate 🧑‍🎓 
 
-Email Me 👉 ✉️ **code.x.60.hotmail.com** For Collaboration/Project or Anything Else. 😊😊
+**A passionat Full stack developer || React Native || AI web apps developer || integrat into yours websites || IOT developer**
 
-- 🔭 **I’m currently working on:** Stock markete data analyzer project
-- 🌱 **I’m currently learning:** ML/AI
-- 👯 **I’m looking to collaborate on:** Stock markete data analyzer
+Email Me 👉 ✉️ **azizsaddiquesaddique@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** On Ecoplugify IOT Related Project.
+- 🌱 **I’m currently learning:** Robotics
+- 👯 **I’m looking to collaborate on:** An opportunity where i can improve my skills industry leve…
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** Collaboration, Tech Support
+- 
+
+
 - 📫 **How to reach me:** azizsaddiquesaddique@gmail.com
-- 😄 **Pronouns:** Aziz Saddique
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
   
 # 💫 About Me:
-💻 Technical Skills:<br><br>Frontend Development: Next.js (TypeScript), React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)<br><br>Backend Development: Node.js, Python<br><br>Full-Stack Development: Building end-to-end web applications with modern frameworks and responsive UI<br><br>UI/UX & Graphic Design: Flyer designs, Poster designs, Logo designs (Creative & Brand-focused)<br><br>🎓 Education:<br><br>BS Computer Science (Ongoing) — University of Gujrat<br><br>🌟 Strengths:<br><br>Strong problem-solving mindset<br><br>Ability to work on both frontend & backend<br><br>Creative designing with attention to branding and aesthetics
+💻 Technical Skills:<br><br>Frontend Development: Next.js (TypeScript), React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)<br><br>Backend Development: Node.js, Python<br><br>Full-Stack Development: Building end-to-end web applications with modern frameworks and responsive UI<br><br>UI/UX & Graphic Design: Flyer designs, Poster designs, Logo designs (Creative & Brand-focused)<br><br>🎓 Education:<br><br>BS Computer Science graduate — University of Gujrat<br><br>🌟 Strengths:<br><br>Strong problem-solving mindset<br><br>Ability to work on both frontend & backend<br><br>Creative designing with attention to branding and aesthetics
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AzizSaddique&theme=radical&no-frame=false&no-bg=false&margin-w=4)
